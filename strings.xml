@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CustomWidgets</string>
+    <string name="increase_progress">Increase Progress</string>
+    <string name="show_custom_progressbar">show Custom ProgressBar</string>
+    <string name="show_custom_switch">Show Custom Switch</string>
+    <string name="show_circular_progress_bar">Show Circular Progress Bar</string>
+    <string name="back_to_main">Back to Main</string>
+    <string name="custom_widgets">Custom Widgets</string>
+    <string name="reset_button">Reset Button</string>
+</resources>
